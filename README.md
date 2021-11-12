@@ -2,12 +2,6 @@
 
 A test application written win dart language.
 
-## Getting Started
-
-1. Clone this repo using `git clone --depth=1 https://github.com/sidzan/warehouse.git`
-2. Get the necessary Package `flutter get packages`
-3. Run the project `flutter run`
-
 ## Resources
 
 - [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
